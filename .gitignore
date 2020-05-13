@@ -5,6 +5,7 @@ f_win_game_client_release.id
 loginData.json
 .LooseFiles.txt
 *.log
+/Bin64
 /Tools
 /USER
 /screenshots

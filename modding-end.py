@@ -17,10 +17,3 @@ else:
     print("Error: can't restore. Please check file permission")
 input("")
 exit(1)
-
-
-
-       
-
-
-

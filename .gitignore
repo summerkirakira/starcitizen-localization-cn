@@ -11,3 +11,4 @@ loginData.json
 /screenshots
 /logbackups
 /DebugLogs
+/__pycache__

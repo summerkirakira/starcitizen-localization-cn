@@ -17,10 +17,3 @@ else:
     print("Error: can't patch. Please check file permission")
 input("")
 exit(1)
-
-
-
-       
-
-
-

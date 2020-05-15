@@ -20,6 +20,6 @@ Russian
 1. Установлен git (опционально)
 2. Установлен Python 3.8: https://www.python.org/ftp/python/3.8.3/python-3.8.3-amd64.exe
 
-Как настроить среду модификации (с Python):
-1. Внутри "...\StarCitizen\LIVE" папки создайте git репозиторий и выкачайте все ресурсы с основной "master" ветки разработки или скачайте архив с последним релизом (https://github.com/defterai/StarCitizenModding/releases) и распакуйте в LIVE
+Как настроить среду модификации:
+1. Внутри "...\StarCitizen\LIVE" папки создайте git репозиторий и выкачайте все ресурсы с основной "master" ветки разработки или скачайте архив с последним релизом (https://github.com/defterai/StarCitizenModding/releases) и скопируйте в LIVE все с папки верхнего уровня (внутри LIVE должны оказатся папка data и скрипты питона)
 2. Запустите modding-start.py питон скрипт для модификации игрового клиента "StarCitizen.exe". Чтобы востановить оригинальную версию клиента запустите modding-end.py

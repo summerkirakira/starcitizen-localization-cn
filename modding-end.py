@@ -4,23 +4,16 @@ import patcher
 
 result = patcher.restore_game()
 if result == 0:
-    print "Already restored"
-    raw_input()
+    print("Already restored")
+    input("")
     exit(0)
 if result == 1:
-    print "Done"
-    raw_input()
+    print("Done")
+    input("")
     exit(0)
 if result == -1:
-    print "Error: can't restore. Please update patcher"
+    print("Error: can't restore. Please update patcher")
 else:
-    print "Error: can't restore. Please check file permission"
-raw_input()
+    print("Error: can't restore. Please check file permission")
+input("")
 exit(1)
-
-
-
-       
-
-
-

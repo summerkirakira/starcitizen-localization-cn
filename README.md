@@ -10,7 +10,7 @@ System requirements
 
 How setup modding environvement:
 1. Inside "...\StarCitizen\LIVE" folder create git repository and checkout all sources from master branch or download latest release archive (https://github.com/defterai/StarCitizenModding/releases)
-2. Run modding-start.py python script to patch "StarCitizen.exe". To restore original version run modding-end.py
+2. Run modding-begin.py python script to patch "StarCitizen.exe". To restore original version run modding-end.py
 
 Russian
 
@@ -22,4 +22,4 @@ Russian
 
 Как настроить среду модификации:
 1. Внутри "...\StarCitizen\LIVE" папки создайте git репозиторий и выкачайте все ресурсы с основной "master" ветки разработки или скачайте архив с последним релизом (https://github.com/defterai/StarCitizenModding/releases) и скопируйте в LIVE все с папки верхнего уровня (внутри LIVE должны оказатся папка data и скрипты питона)
-2. Запустите modding-start.py питон скрипт для модификации игрового клиента "StarCitizen.exe". Чтобы востановить оригинальную версию клиента запустите modding-end.py
+2. Запустите modding-begin.py питон скрипт для модификации игрового клиента "StarCitizen.exe". Чтобы востановить оригинальную версию клиента запустите modding-end.py

@@ -11,9 +11,6 @@ if result == 1:
     print("Done")
     input("")
     exit(0)
-if result == -1:
-    print("Error: can't restore. Please update patcher")
-else:
-    print("Error: can't restore. Please check file permission")
+print("Error: can't restore. Please check file permission")
 input("")
 exit(1)

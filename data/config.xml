@@ -1,4 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
+<Bugfix enabled="true"> 
+	<StackCorruption1 />
+</Bugfix>
 <Font enabled="false">
 	<Letter code="33" name="exclamation mark" />
 	<Letter code="34" name="quotation mark" />

@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Bugfix enabled="true"> 
 	<StackCorruption1 />
 </Bugfix>
-<Font enabled="false">
+<Font enabled="true">
 	<Letter code="33" name="exclamation mark" />
 	<Letter code="34" name="quotation mark" />
 	
@@ -102,70 +102,70 @@
 	<Letter code="223" name="sharp s" />
 	<Letter code="952" name="conversation bubble" />
 
-	<Letter code="1025" name="E" /> <!-- Ё -->
-	<Letter code="1040" name="A" /> <!-- А -->
-	<Letter code="1041" name="6" /> <!-- Б -->
-	<Letter code="1042" name="8" /> <!-- В -->
-	<Letter code="1043" name="G" /> <!-- Г -->
-	<Letter code="1044" name="D" /> <!-- Д -->
-	<Letter code="1045" name="E" /> <!-- Е -->
-	<Letter code="1046" name="percent" /> <!-- Ж -->
-	<Letter code="1047" name="3" /> <!-- З -->
-	<Letter code="1048" name="U" /> <!-- И -->
-	<Letter code="1049" name="U" /> <!-- Й -->
-	<Letter code="1050" name="K" /> <!-- К -->
-	<Letter code="1051" name="J" /> <!-- Л -->
-	<Letter code="1052" name="M" /> <!-- М -->
-	<Letter code="1053" name="H" /> <!-- Н -->
-	<Letter code="1054" name="O" /> <!-- О -->
-	<Letter code="1055" name="N" /> <!-- П -->
-	<Letter code="1056" name="P" /> <!-- Р -->
-	<Letter code="1057" name="C" /> <!-- С -->
-	<Letter code="1058" name="T" /> <!-- Т -->
-	<Letter code="1059" name="Y" /> <!-- У -->
-	<Letter code="1060" name="F" /> <!-- Ф -->
-	<Letter code="1061" name="X" /> <!-- Х -->
-	<Letter code="1062" name="W" /> <!-- Ц -->
-	<Letter code="1063" name="4" /> <!-- Ч -->
-	<Letter code="1064" name="W" /> <!-- Ш -->
-	<Letter code="1065" name="W" /> <!-- Щ -->
-	<Letter code="1066" name="grave accent" /> <!-- Ъ -->
-	<Letter code="1067" name="I" /> <!-- Ы -->
-	<Letter code="1068" name="grave accent" /> <!-- Ь -->
-	<Letter code="1069" name="E" /> <!-- Э -->
-	<Letter code="1070" name="U" /> <!-- Ю -->
-	<Letter code="1071" name="and" /> <!-- Я -->
-	<Letter code="1072" name="lowercase a" /> <!-- а -->
-	<Letter code="1073" name="lowercase b" /> <!-- б -->
-	<Letter code="1074" name="8" /> <!-- в -->
-	<Letter code="1075" name="lowercase g" />  <!-- г -->
-	<Letter code="1076" name="lowercase d" />  <!-- д -->
-	<Letter code="1077" name="lowercase e" /> <!-- е -->
-	<Letter code="1078" name="percent" /> <!-- ж -->
-	<Letter code="1079" name="3" /> <!-- з -->
-	<Letter code="1080" name="lowercase u" />  <!-- и -->
-	<Letter code="1081" name="lowercase u" />  <!-- й -->
-	<Letter code="1082" name="lowercase k" /> <!-- к -->
-	<Letter code="1083" name="lowercase j" /> <!-- л -->
-	<Letter code="1084" name="lowercase m" /> <!-- м -->
-	<Letter code="1085" name="lowercase h" />  <!-- н -->
-	<Letter code="1086" name="lowercase o" />  <!-- о -->
-	<Letter code="1087" name="lowercase n" /> <!-- п -->
-	<Letter code="1088" name="lowercase p" /> <!-- р -->
-	<Letter code="1089" name="lowercase c" /> <!-- с -->
-	<Letter code="1090" name="lowercase t" />  <!-- т -->
-	<Letter code="1091" name="lowercase y" />  <!-- у -->
-	<Letter code="1092" name="lowercase f" />  <!-- ф -->
-	<Letter code="1093" name="lowercase x" /> <!-- х -->
-	<Letter code="1094" name="lowercase w" /> <!-- ц -->
-	<Letter code="1095" name="4" /> <!-- ч -->
-	<Letter code="1096" name="lowercase w" />  <!-- ш -->
-	<Letter code="1097" name="lowercase w" />  <!-- щ -->
-	<Letter code="1098" name="grave accent" /> <!-- ъ -->
-	<Letter code="1099" name="lowercase i" />  <!-- ы -->
-	<Letter code="1100" name="grave accent" />  <!-- ь -->
-	<Letter code="1101" name="lowercase e" /> <!-- э -->
-	<Letter code="1102" name="lowercase u" />  <!-- ю -->
-	<Letter code="1103" name="and" />  <!-- я -->	
-	<Letter code="1105" name="lowercase e" />  <!-- ё -->
+	<Letter code="1025" name="uni0401" /> <!-- Ё -->
+	<Letter code="1040" name="uni0410" /> <!-- А -->
+	<Letter code="1041" name="uni0411" /> <!-- Б -->
+	<Letter code="1042" name="uni0412" /> <!-- В -->
+	<Letter code="1043" name="uni0413" /> <!-- Г -->
+	<Letter code="1044" name="uni0414" /> <!-- Д -->
+	<Letter code="1045" name="uni0415" /> <!-- Е -->
+	<Letter code="1046" name="uni0416" /> <!-- Ж -->
+	<Letter code="1047" name="uni0417" /> <!-- З -->
+	<Letter code="1048" name="uni0418" /> <!-- И -->
+	<Letter code="1049" name="uni0419" /> <!-- Й -->
+	<Letter code="1050" name="uni041A" /> <!-- К -->
+	<Letter code="1051" name="uni041B" /> <!-- Л -->
+	<Letter code="1052" name="uni041C" /> <!-- М -->
+	<Letter code="1053" name="uni041D" /> <!-- Н -->
+	<Letter code="1054" name="uni041E" /> <!-- О -->
+	<Letter code="1055" name="uni041F" /> <!-- П -->
+	<Letter code="1056" name="uni0420" /> <!-- Р -->
+	<Letter code="1057" name="uni0421" /> <!-- С -->
+	<Letter code="1058" name="uni0422" /> <!-- Т -->
+	<Letter code="1059" name="uni0423" /> <!-- У -->
+	<Letter code="1060" name="uni0424" /> <!-- Ф -->
+	<Letter code="1061" name="uni0425" /> <!-- Х -->
+	<Letter code="1062" name="uni0426" /> <!-- Ц -->
+	<Letter code="1063" name="uni0427" /> <!-- Ч -->
+	<Letter code="1064" name="uni0428" /> <!-- Ш -->
+	<Letter code="1065" name="uni0429" /> <!-- Щ -->
+	<Letter code="1066" name="uni042A" /> <!-- Ъ -->
+	<Letter code="1067" name="uni042B" /> <!-- Ы -->
+	<Letter code="1068" name="uni042C" /> <!-- Ь -->
+	<Letter code="1069" name="uni042D" /> <!-- Э -->
+	<Letter code="1070" name="uni042E" /> <!-- Ю -->
+	<Letter code="1071" name="uni042F" /> <!-- Я -->
+	<Letter code="1072" name="uni0430" /> <!-- а -->
+	<Letter code="1073" name="uni0431" /> <!-- б -->
+	<Letter code="1074" name="uni0432" /> <!-- в -->
+	<Letter code="1075" name="uni0433" />  <!-- г -->
+	<Letter code="1076" name="uni0434" />  <!-- д -->
+	<Letter code="1077" name="uni0435" /> <!-- е -->
+	<Letter code="1078" name="uni0436" /> <!-- ж -->
+	<Letter code="1079" name="uni0437" /> <!-- з -->
+	<Letter code="1080" name="uni0438" />  <!-- и -->
+	<Letter code="1081" name="uni0439" />  <!-- й -->
+	<Letter code="1082" name="uni043A" /> <!-- к -->
+	<Letter code="1083" name="uni043B" /> <!-- л -->
+	<Letter code="1084" name="uni043C" /> <!-- м -->
+	<Letter code="1085" name="uni043D" />  <!-- н -->
+	<Letter code="1086" name="uni043E" />  <!-- о -->
+	<Letter code="1087" name="uni043F" /> <!-- п -->
+	<Letter code="1088" name="uni0440" /> <!-- р -->
+	<Letter code="1089" name="uni0441" /> <!-- с -->
+	<Letter code="1090" name="uni0442" />  <!-- т -->
+	<Letter code="1091" name="uni0443" />  <!-- у -->
+	<Letter code="1092" name="uni0444" />  <!-- ф -->
+	<Letter code="1093" name="uni0445" /> <!-- х -->
+	<Letter code="1094" name="uni0446" /> <!-- ц -->
+	<Letter code="1095" name="uni0447" /> <!-- ч -->
+	<Letter code="1096" name="uni0448" />  <!-- ш -->
+	<Letter code="1097" name="uni0449" />  <!-- щ -->
+	<Letter code="1098" name="uni044A" /> <!-- ъ -->
+	<Letter code="1099" name="uni044B" />  <!-- ы -->
+	<Letter code="1100" name="uni044C" />  <!-- ь -->
+	<Letter code="1101" name="uni044D" /> <!-- э -->
+	<Letter code="1102" name="uni044E" />  <!-- ю -->
+	<Letter code="1103" name="uni044F" />  <!-- я -->	
+	<Letter code="1105" name="uni0451" />  <!-- ё -->
 </Font>

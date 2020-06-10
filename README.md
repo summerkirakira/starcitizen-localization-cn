@@ -13,8 +13,8 @@ How setup modding environvement:
 2. Run modding-begin.py python script to patch "StarCitizen.exe". To restore original version run modding-end.py
 
 Also you can use following applications to install modding environvement:
-https://github.com/h0useRus/StarCitizen
-https://github.com/Shin0by/StarCitizen-Helper
+* https://github.com/h0useRus/StarCitizen
+* https://github.com/Shin0by/StarCitizen-Helper
 
 Russian
 
@@ -29,5 +29,5 @@ Russian
 2. Запустите modding-begin.py питон скрипт для модификации игрового клиента "StarCitizen.exe". Чтобы востановить оригинальную версию клиента запустите modding-end.py
 
 Также вы можете использовать следующие приложения для установки среды модификации:
-https://github.com/h0useRus/StarCitizen
-https://github.com/Shin0by/StarCitizen-Helper
+* https://github.com/h0useRus/StarCitizen
+* https://github.com/Shin0by/StarCitizen-Helper

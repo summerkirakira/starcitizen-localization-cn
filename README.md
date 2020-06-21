@@ -12,13 +12,16 @@ How setup modding environvement:
 1. Inside "...\StarCitizen\LIVE" folder create git repository and checkout all sources from master branch or download latest release archive (https://github.com/defterai/StarCitizenModding/releases)
 2. Run modding-begin.py python script to activate modding environvement. To deactivate it just run modding-end.py
 
-Also you can use following applications to install modding environvement:
+Also you can use following applications to install and update this modding environvement:
 * https://github.com/h0useRus/StarCitizen
 * https://github.com/Shin0by/StarCitizen-Helper
 
 Russian
 
 Модификация игры Star Star Citizen
+
+Эта модификация добавляет поддержку русского языка в игру сделанного силами сообщества "Star Citizen на русском"
+Если вы нашли какие-то ошибки в переводе просьба обращатся в дискорд сообщества: https://discord.gg/swhtXGX
 
 Требования к системе:
 1. Установлен git (опционально)
@@ -28,6 +31,6 @@ Russian
 1. Внутри "...\StarCitizen\LIVE" папки создайте git репозиторий и выкачайте все ресурсы с основной "master" ветки разработки или скачайте архив с последним релизом (https://github.com/defterai/StarCitizenModding/releases) и скопируйте в LIVE все с папки верхнего уровня (внутри LIVE должны оказатся папка data и скрипты питона)
 2. Запустите modding-begin.py питон скрипт для активации среди модификации. Чтобы выключить её запустите modding-end.py
 
-Также вы можете использовать следующие приложения для установки среды модификации:
+Также вы можете использовать следующие приложения для установки и обновления этой среды модификации:
 * https://github.com/h0useRus/StarCitizen
 * https://github.com/Shin0by/StarCitizen-Helper

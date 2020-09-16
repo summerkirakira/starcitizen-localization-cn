@@ -2,6 +2,7 @@
 /client.crt
 /c_hiload_crash_handler.id
 /f_win_game_client_release.id
+/build_manifest.id
 /loginData.json
 /.LooseFiles.txt
 /user.cfg

@@ -15,3 +15,6 @@
 /logbackups
 /DebugLogs
 /__pycache__
+/logs
+/*.exe
+/profiles.json

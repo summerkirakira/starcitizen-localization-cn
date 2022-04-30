@@ -3,7 +3,7 @@
 import os
 import shutil
 
-game_file_path = 'Bin64/CIGDevelopmentTools.dll'
+game_file_path = 'Bin64/dbghelp.dll'
 
 
 def patch_game():

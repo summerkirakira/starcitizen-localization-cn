@@ -19,6 +19,4 @@
 /*.exe
 /profiles.json
 /launcherData.json
-/.DS_Store
-/*/.DS_Store
-/*/*/.DS_Store
+**/.Ds_Store

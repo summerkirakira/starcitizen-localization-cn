@@ -1,4 +1,5 @@
 /Data.p4k
+/Data.p4k.part
 /client.crt
 /c_hiload_crash_handler.id
 /f_win_game_client_release.id
@@ -7,15 +8,17 @@
 /.LooseFiles.txt
 /user.cfg
 /*.log
+/*.lnk
 /*.pyc
 /Bin64
+/EasyAntiCheat
 /Tools
 /USER
 /screenshots
+/logs
 /logbackups
 /DebugLogs
 /__pycache__
-/logs
 /*.exe
 /profiles.json
 /launcherData.json
